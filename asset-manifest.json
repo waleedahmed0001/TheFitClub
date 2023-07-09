@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TheFitClub/static/css/main.ab5b848b.css",
+    "main.css": "/TheFitClub/static/css/main.ec559c5c.css",
     "main.js": "/TheFitClub/static/js/main.63603905.js",
     "static/media/hero_image.png": "/TheFitClub/static/media/hero_image.e19ac0c6b1009c7280f5.png",
     "static/media/t-image1.png": "/TheFitClub/static/media/t-image1.c16c2c261034cf78ee57.png",
@@ -12,11 +12,11 @@
     "static/media/t-image2.jpg": "/TheFitClub/static/media/t-image2.f5d2e52e514c544dfffb.jpg",
     "static/media/hero_image_back.png": "/TheFitClub/static/media/hero_image_back.9f54bfba33048f4ca688.png",
     "index.html": "/TheFitClub/index.html",
-    "main.ab5b848b.css.map": "/TheFitClub/static/css/main.ab5b848b.css.map",
+    "main.ec559c5c.css.map": "/TheFitClub/static/css/main.ec559c5c.css.map",
     "main.63603905.js.map": "/TheFitClub/static/js/main.63603905.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab5b848b.css",
+    "static/css/main.ec559c5c.css",
     "static/js/main.63603905.js"
   ]
 }
